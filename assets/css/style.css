@@ -92,6 +92,10 @@ grid-template-rows: 60px 60px 1fr 60px;
     object-fit: cover;
 }
 
+.card button {
+    cursor: pointer;
+}
+
 .paginacion{
     position: fixed;
     bottom: 80px;
